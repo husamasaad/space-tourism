@@ -255,7 +255,7 @@ select {
   z-index: 1;
   display: inline-grid;
   place-items: center;
-  padding: 0 3em;
+  padding: 0 2em;
   border-radius: 50%;
   aspect-ratio: 1;
   text-decoration: none;
